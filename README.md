@@ -1,7 +1,7 @@
 # ⭐ Discord Vouch Bot
 
 A simple Discord bot for adding vouches with stars, descriptions, and optional images. Perfect for communities needing a system to vouch for members or services. 🚀
-
+- Preview: https://youtu.be/vhGU_CutaFs
 ---
 
 ## Features ✨
